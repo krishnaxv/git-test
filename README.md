@@ -3,3 +3,5 @@
 Test Git commands!
 
 Let's do something with tags!
+
+Commit 1
